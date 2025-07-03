@@ -52,6 +52,7 @@ table, td, tr{
 
 h1, h2, h3 {
     margin: 23px 0;
+    text-shadow: 5px 5px 16px rgb(0, 0, 0);
 }
 
 .btn{
@@ -63,6 +64,7 @@ h1, h2, h3 {
     border-radius: 8px;
     margin: 25px 0;
     cursor: pointer;
+    box-shadow: 4px  -5px 15px black;
 }
 
 .btnsm{ 
